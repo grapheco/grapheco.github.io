@@ -12,6 +12,7 @@
 - [hippo-rpc](https://github.com/bluejoe2008/hippo-rpc): Hippo Transport Library enhances spark-commons with easy stream management & handling
 - [elfinder-2.x-servlet](https://github.com/bluejoe2008/elfinder-2.x-servlet): elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector
 - [spark-http-stream](https://github.com/bluejoe2008/spark-http-stream): spark structured streaming via HTTP communication
+- [solr-sql](https://github.com/bluejoe2008/solr-sql): sql interface for solr cloud
 
 ### Papers:
 
