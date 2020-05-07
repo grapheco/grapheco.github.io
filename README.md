@@ -11,14 +11,14 @@ InteractiveGraph provides a web-based interactive operating framwork for large g
 
 InteractiveGraph also provides three applications built on the framework: `GraphNavigator`, `GraphExplorer` and `RelFinder`.
 
-__GraphNavigator__: online demo https://grapheco.github.io/InteractiveGraph/dist/examples/example1.html
+__GraphNavigator__: online demo <https://grapheco.github.io/InteractiveGraph/dist/examples/example1.html>
 <img alt="GraphNavigator" src="https://github.com/grapheco/InteractiveGraph/raw/master/docs/navi.png" width="700">
 
 __GraphExplorer__: online demo 
-https://grapheco.github.io/InteractiveGraph/dist/examples/example2.html
+<https://grapheco.github.io/InteractiveGraph/dist/examples/example2.html>
 <img alt="GraphExplorer" src="https://github.com/grapheco/InteractiveGraph/raw/master/docs/exp.gif" width="700">
 
-__RelFinder__: online demo https://grapheco.github.io/InteractiveGraph/dist/examples/example3.html
+__RelFinder__: online demo <https://grapheco.github.io/InteractiveGraph/dist/examples/example3.html>
 <img alt="RelFinder" src="https://github.com/grapheco/InteractiveGraph/raw/master/docs/rel.gif" width="700">
 
 # OpenWebFlow
@@ -45,7 +45,7 @@ OpenWebFlow是基于Activiti（官方网站<http://activiti.org/>，代码托管
 [![GitHub license](https://img.shields.io/github/license/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/blob/master/LICENSE)
 
 πFlow is an easy to use, powerful big data pipeline system.
-Try with: http://piflow.cstcloud.cn/piflow-web/
+Try with: <http://piflow.cstcloud.cn/piflow-web/>
 
 *Features
 
