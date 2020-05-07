@@ -36,7 +36,7 @@ OpenWebFlow是基于Activiti（官方网站<http://activiti.org/>，代码托管
 * 允许运行时定义activity！__彻底满足“中国特色”，并提供了安全的（同时也是优雅的）催办、代办、加签（包括前加签/后加签）、自由跳转（包括前进/后）、分裂节点等功能__；
 
 # PiFlow
-<img src="https://github.com/cas-bigdatalab/piflow/blob/master/doc/piflow-logo2.png">
+<img src="https://github.com/cas-bigdatalab/piflow/blob/master/doc/piflow-logo2.png?raw=true">
 
 [![GitHub releases](https://img.shields.io/github/release/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/releases)
 [![GitHub stars](https://img.shields.io/github/stars/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/stargazers)
@@ -63,4 +63,4 @@ Try with: <http://piflow.cstcloud.cn/piflow-web/>
   - 100+ data processing components available
   - include spark、mllib、hadoop、hive、hbase、solr、redis、memcache、elasticSearch、jdbc、mongodb、http、ftp、xml、csv、json，etc.
 
-<img src="https://github.com/cas-bigdatalab/piflow/blob/master/doc/architecture.png" width="500">
+<img src="https://github.com/cas-bigdatalab/piflow/blob/master/doc/architecture.png?raw=true" width="500">
