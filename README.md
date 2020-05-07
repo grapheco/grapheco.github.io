@@ -47,7 +47,7 @@ OpenWebFlow是基于Activiti（官方网站<http://activiti.org/>，代码托管
 πFlow is an easy to use, powerful big data pipeline system.
 Try with: http://piflow.cstcloud.cn/piflow-web/
 
-## Features
+*Features
 
 - Easy to use
   - provide a WYSIWYG web interface to configure data flow
